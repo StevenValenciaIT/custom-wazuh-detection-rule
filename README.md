@@ -22,7 +22,7 @@ done
 
 ### Wazuh Alert Triggered
 Shows the custom rule firing in Wazuh after 5 failed RDP attempts:
-![Wazuh Alert Screenshot](wazuh dashboard.png)
+![Wazuh Alert Screenshot](wazuhdashboard_2.png)
 
 ### Rule Added to local_rules.xml
 Custom detection rule added to the manager:

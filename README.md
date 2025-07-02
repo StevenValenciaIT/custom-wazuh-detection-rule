@@ -25,4 +25,4 @@ Shows the custom rule firing in Wazuh after 5 failed RDP attempts:
 
 ### Rule Added to local_rules.xml
 Custom detection rule added to the manager:
-![local_rules Screenshot](rule.png)
+![local_rules Screenshot](rules.png)
